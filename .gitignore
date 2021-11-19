@@ -1,1 +1,6 @@
 env
+*.exe_
+*.exe_.~asm
+*.exe_.debug
+*.exe_.list
+*.exe_.symbol
